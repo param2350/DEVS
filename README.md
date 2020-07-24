@@ -1,5 +1,5 @@
 ![GitHub Logo](public/images/devs.png)
-Format: ![Alt Text](url)
+
 
 
 
